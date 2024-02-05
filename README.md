@@ -14,26 +14,6 @@ Welcome to SocioHub, the ultimate social media platform for connecting with frie
 - Notifications
 - Search Functionality
 - Privacy Settings
-
-## Screenshots
-
-- SignIn  ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/3185861c-182d-4a23-acd9-8531c862c982)
-
-- SignUp  ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/23f1d154-b692-458e-99dc-1ddc170d7951)
-
-- Home  ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/613156fb-1f96-43e9-b2f8-b0ab2074a8ed)
-
-- User Profile ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/de2fd372-ae44-420a-9d86-0517aa937482)
-
-- Followers/Following ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/204da00a-a6a2-4b74-b25b-c61c238ae774)
-
-- Explore Post ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/7fe522aa-d7f4-4a73-ac4d-b3fc85a6173e)
-
-- Socio Map ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/be020508-ca78-4839-8f53-9289d7915b0a)
-
-- Setting ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/f866db63-8514-4320-bb06-edb67beb852b)
-
-- Admin Pannel ![image](https://github.com/imhardikdesai/SocioHub/assets/87645745/427852a5-7c39-43ad-9090-5b50340f5b1b)
  
 ## Technologies Used
 
@@ -45,7 +25,7 @@ Welcome to SocioHub, the ultimate social media platform for connecting with frie
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/imhardikdesai/SocioHub.git`
+1. Clone the repository: `git clone https://github.com/proangel1215/SocioHub.git`
 2. Install the dependencies: `npm install`
 3. Set up environment variables with firebase credentials 
 4. Start the server: `npm start`
